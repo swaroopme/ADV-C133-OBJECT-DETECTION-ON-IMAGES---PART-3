@@ -1,0 +1,51 @@
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#all{
+    background: rgb(0, 179, 255);
+    border-radius: 10px;
+    height: 25px;
+    width: 250px;
+    margin-top: 30px;
+    font-size: medium;
+    border: 15px;
+    color: white;
+    border-color: black;
+}
+
+#all:hover{
+    font-size: large;
+}
+
+.heading{
+    height: 50px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    background-color: orangered;
+    color: black;
+    width: 25%;
+    font-size: 25px;
+    line-height: 2;
+    border-radius: 25px;
+    padding: 15px;
+    font-family: 'Pacifico', cursive;;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    line-height: 3;
+    width: 100%;
+    background-color: grey;
+    bottom: 0px;
+    text-align: center;  
+}
